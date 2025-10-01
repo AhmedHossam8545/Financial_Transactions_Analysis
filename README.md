@@ -23,7 +23,6 @@ The workflow includes:
 | `DA.ipynb` | Main Jupyter Notebook for data cleaning, analysis, and exploration. |
 | `Financial-Transaction-Data-Analysis-Report-Final.pptx` | Final presentation with insights. |
 | `Power BI Report v1.pbix` | Interactive Power BI dashboard. |
-| `Screenshots/` | Screenshots of Power BI dashboards (Overview, Customers, Cards). |
 
 ---
 
